@@ -37,7 +37,7 @@ Chapter - #berry #bumper #checkpoint #deathless-berry #deathless-berry-collect #
 [[Start-5 100|100]] - #berry 
 [[Start-6 125|125]] - #berry #wind 
 [[Start-7 150|150]] - #berry #wind 
-[[Start-8 175|175]] - #berry 
+[[Start-8 175|175]] - #berry #wind 
 [[Start-9 200|200]] - #berry 
 [[Start-10 225|225]]
 [[Start-11 250|250]] - #berry 

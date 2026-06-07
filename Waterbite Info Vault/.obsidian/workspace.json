@@ -11,12 +11,28 @@
             "id": "6c2417190e14135a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Image Storage/75 hitbox.jpg"
+                "file": "cp1 - Start/Start-8 175.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "75 hitbox"
+              "icon": "lucide-file",
+              "title": "Start-8 175"
+            }
+          },
+          {
+            "id": "d5fd0fd5f2903f4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cp1 - Start/Start Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Start Overview"
             }
           }
         ]
@@ -181,19 +197,31 @@
       "bases:Create new base": false
     }
   },
-  "active": "9d4e22bd1f6333a3",
+  "active": "6c2417190e14135a",
   "lastOpenFiles": [
-    "Navigation.md",
-    "Image Storage/75 no hitbox.jpg",
-    "cp1 - Start/Start-4 75.md",
-    "Image Storage/75 hitbox.jpg",
-    "cp1 - Start/Start-3 50.md",
+    "cp1 - Start/Start-9 200.md",
+    "cp1 - Start/Start-8 175.md",
+    "cp1 - Start/Start-7 150.md",
+    "cp1 - Start/Start-6 125.md",
+    "cp1 - Start/Start-5 100.md",
+    "Pasted image 20260607174048.png",
+    "Pasted image 20260607174002.png",
+    "cp1 - Start/Start-1 Start.md",
+    "Image Storage/175 spinner gap.png",
+    "Image Storage/175 berry mid.png",
+    "Image Storage/175 berry exit.png",
+    "Image Storage/175 berry entrance.png",
+    "Image Storage/175 berry entrance.png",
+    "Image Storage/175 hitbox.jpg",
+    "Image Storage/175 no hitbox.jpg",
     "cp1 - Start/Start Overview.md",
     "cp1 - Start/Start-2 25.md",
-    "cp1 - Start/Start-1 Start.md",
-    "Image Storage/75 berry entrance.png",
-    "Image Storage/75 berry exit.png",
-    "cp1 - Start/Start-5 100.md",
+    "cp1 - Start/Start-3 50.md",
+    "cp1 - Start/Start-4 75.md",
+    "Image Storage/125 no hitbox.jpg",
+    "cp1 - Start/Start-11 250.md",
+    "cp1 - Start/Start-10 225.md",
+    "Navigation.md",
     "cp2 - Feeling Purple/Feeling Purple Overview.md",
     "cp1 - Start/Start-21 500.md",
     "cp1 - Start/Start-20 475.md",
@@ -205,18 +233,6 @@
     "cp1 - Start/Start-14 325.md",
     "cp1 - Start/Start-13 300.md",
     "cp1 - Start/Start-12 275.md",
-    "cp1 - Start/Start-11 250.md",
-    "cp1 - Start/Start-10 225.md",
-    "cp1 - Start/Start-9 200.md",
-    "cp1 - Start/Start-8 175.md",
-    "cp1 - Start/Start-7 150.md",
-    "cp1 - Start/Start-6 125.md",
-    "Image Storage/50 hitbox.jpg",
-    "Image Storage/50 no hitbox.jpg",
-    "Image Storage/50 berry exit.png",
-    "Image Storage/50 berry entrance.png",
-    "Image Storage/50 25 berry exit.png",
-    "Image Storage/50 25 berry entrance.png",
     "Image Storage",
     "cp2 - Feeling Purple/Feeling Purple-1 525.md",
     "cp5 - Too Deep to Think",
