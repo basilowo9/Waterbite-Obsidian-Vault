@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "5275828e6d7712ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "821ad10d2b8b8f6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c2417190e14135a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Image Storage/75 hitbox.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "75 hitbox"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c0b71f556349eff2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed13d1e8038701e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d4e22bd1f6333a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "10e9b61fe007cb7b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c4765f18ddf3d0b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9220943285249030",
+    "type": "split",
+    "children": [
+      {
+        "id": "718e3732bb31fa4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66696a287633c4b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Image Storage/75 hitbox.jpg",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 75 hitbox"
+            }
+          },
+          {
+            "id": "2e6a467b4387ba23",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Image Storage/75 hitbox.jpg",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 75 hitbox"
+            }
+          },
+          {
+            "id": "1575fd14e7466bc4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "427e6b7876a3fd34",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e39b4102c17bca1d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Image Storage/75 hitbox.jpg",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 75 hitbox"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "9d4e22bd1f6333a3",
+  "lastOpenFiles": [
+    "Navigation.md",
+    "Image Storage/75 no hitbox.jpg",
+    "cp1 - Start/Start-4 75.md",
+    "Image Storage/75 hitbox.jpg",
+    "cp1 - Start/Start-3 50.md",
+    "cp1 - Start/Start Overview.md",
+    "cp1 - Start/Start-2 25.md",
+    "cp1 - Start/Start-1 Start.md",
+    "Image Storage/75 berry entrance.png",
+    "Image Storage/75 berry exit.png",
+    "cp1 - Start/Start-5 100.md",
+    "cp2 - Feeling Purple/Feeling Purple Overview.md",
+    "cp1 - Start/Start-21 500.md",
+    "cp1 - Start/Start-20 475.md",
+    "cp1 - Start/Start-19 450.md",
+    "cp1 - Start/Start-18 425.md",
+    "cp1 - Start/Start-17 400.md",
+    "cp1 - Start/Start-16 375.md",
+    "cp1 - Start/Start-15 350.md",
+    "cp1 - Start/Start-14 325.md",
+    "cp1 - Start/Start-13 300.md",
+    "cp1 - Start/Start-12 275.md",
+    "cp1 - Start/Start-11 250.md",
+    "cp1 - Start/Start-10 225.md",
+    "cp1 - Start/Start-9 200.md",
+    "cp1 - Start/Start-8 175.md",
+    "cp1 - Start/Start-7 150.md",
+    "cp1 - Start/Start-6 125.md",
+    "Image Storage/50 hitbox.jpg",
+    "Image Storage/50 no hitbox.jpg",
+    "Image Storage/50 berry exit.png",
+    "Image Storage/50 berry entrance.png",
+    "Image Storage/50 25 berry exit.png",
+    "Image Storage/50 25 berry entrance.png",
+    "Image Storage",
+    "cp2 - Feeling Purple/Feeling Purple-1 525.md",
+    "cp5 - Too Deep to Think",
+    "cp4 - Crimson Nightmares",
+    "cp3 - Scared of Red",
+    "cp2 - Feeling Purple",
+    "cp1 - Start",
+    "navigation"
+  ]
+}
