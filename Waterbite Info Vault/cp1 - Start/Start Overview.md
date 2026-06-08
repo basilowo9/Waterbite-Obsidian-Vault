@@ -1,4 +1,3 @@
-
 ## Berries
 
 Chapter - 1x platinum berry, 1x silver berry, 13x water berry
@@ -28,7 +27,7 @@ Chapter - 1x platinum berry, 1x silver berry, 13x water berry
 
 ## Tags
 
-Chapter - #berry #bumper #checkpoint #deathless-berry #deathless-berry-collect #pufferfish #wind 
+Chapter - #berry #bumper #checkpoint #deathless-berry #deathless-berry-collect #difficult #pufferfish #wind 
 
 [[Start-1 Start|Start]] - #checkpoint #deathless-berry
 [[Start-2 25|25]] - #berry #deathless-berry
@@ -37,17 +36,36 @@ Chapter - #berry #bumper #checkpoint #deathless-berry #deathless-berry-collect #
 [[Start-5 100|100]] - #berry 
 [[Start-6 125|125]] - #berry #wind 
 [[Start-7 150|150]] - #berry #wind 
-[[Start-8 175|175]] - #berry #wind 
+[[Start-8 175|175]] - #berry #difficult #wind 
 [[Start-9 200|200]] - #berry 
 [[Start-10 225|225]]
 [[Start-11 250|250]] - #berry 
 [[Start-12 275|275]]
-[[Start-13 300|300]] - #berry 
-[[Start-14 325|325]]
+[[Start-13 300|300]] - #berry #difficult
+[[Start-14 325|325]] - #difficult
 [[Start-15 350|350]]
 [[Start-16 375|375]] - #berry 
-[[Start-17 400|400]]
+[[Start-17 400|400]] - #difficult 
 [[Start-18 425|425]] - #pufferfish 
 [[Start-19 450|450]] - #pufferfish 
 [[Start-20 475|475]] - #pufferfish 
 [[Start-21 500|500]] - #bumper #deathless-berry-collect #pufferfish
+
+## Full Chapter Layout
+![[0 no hitbox.jpg|250]] START
+![[25 no hitbox.jpg|250]] 25m
+![[50 no hitbox.jpg|250]] 50m
+![[75 no hitbox.jpg|250]] 75m
+![[100 no hitbox.jpg|250]] 100m
+![[125 no hitbox.jpg|250]] 125m
+![[150 no hitbox.jpg|250]] 150m
+![[175 no hitbox.jpg|250]] 175m
+![[200 no hitbox.jpg|250]] 200m
+![[225 no hitbox.jpg|250]] 225m
+![[250 no hitbox.jpg|250]] 250m
+![[275 no hitbox.jpg|250]] 275m
+![[300 no hitbox.jpg|250]] 300m
+![[325 no hitbox.jpg|250]] 325m
+![[350 no hitbox.jpg|250]] 350m
+![[375 no hitbox.jpg|250]] 375m
+![[400 no hitbox.jpg|250]] 400m
