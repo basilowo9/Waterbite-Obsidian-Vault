@@ -11,17 +11,28 @@
             "id": "9ae79d6ef37b16c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "cp1 - Start/Start Overview.md",
-                "mode": "source",
-                "source": false
+                "file": "cp1 - Start/Start Image Storage/500/500 pufferfish gap.png"
               },
-              "icon": "lucide-file",
-              "title": "Start Overview"
+              "icon": "lucide-image",
+              "title": "500 pufferfish gap"
+            }
+          },
+          {
+            "id": "e1ba994e98ecdc7e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "cp1 - Start/Start Image Storage/500/500 hitbox.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "500 hitbox"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,27 +194,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "9ae79d6ef37b16c6",
+  "active": "9d4e22bd1f6333a3",
   "lastOpenFiles": [
-    "Home.md",
-    "cp1 - Start/Start Image Storage/425 (GET FULL ROOM IMAGES)/425 pufferfish gap 1.png",
-    "cp1 - Start/Start Image Storage/425 (GET FULL ROOM IMAGES)",
-    "cp1 - Start/Start Image Storage/425 (GET FULL ROOM IMAGES)/425 pufferfish gap 2.png",
-    "cp1 - Start/Start Image Storage/425 (GET FULL ROOM IMAGES)/425 spinner gap 5.png",
-    "cp1 - Start/Start Image Storage/425 (GET FULL ROOM IMAGES)/425 spinner gap 4.png",
-    "cp1 - Start/Start Image Storage/425 (GET FULL ROOM IMAGES)/425 spinner gap 3.png",
-    "cp1 - Start/Start Image Storage/425 (GET FULL ROOM IMAGES)/425 spinner gap 2.png",
-    "cp1 - Start/Start Image Storage/425 (GET FULL ROOM IMAGES)/425 spinner gap 1.png",
+    "cp1 - Start/Start Image Storage/500",
+    "cp1 - Start/Start Image Storage/500/500 no hitbox.jpg",
+    "cp1 - Start/Start Rooms/Start-21 500.md",
+    "cp1 - Start/Start Image Storage/500/500 hitbox.jpg",
+    "cp1 - Start/Start Rooms/Start-20 475.md",
+    "cp1 - Start/Start Image Storage/500/500 pufferfish gap.png",
+    "cp1 - Start/Start Image Storage/500/500 spinner gap 1.png",
+    "cp1 - Start/Start Image Storage/500/500 spinner gap 2.png",
+    "cp1 - Start/Start Image Storage/475/475 hitbox.jpg",
+    "cp1 - Start/Start Image Storage/475",
+    "cp1 - Start/Start Image Storage/475/475 no hitbox.jpg",
+    "cp1 - Start/Start Image Storage/475/475 spinner gap 2.png",
+    "cp1 - Start/Start Image Storage/475/475 spinner gap 3.png",
+    "cp1 - Start/Start Image Storage/475/475 spinner gap 4.png",
+    "cp1 - Start/Start Rooms/Start-19 450.md",
+    "cp1 - Start/Start Image Storage/450",
     "cp1 - Start/Start Rooms/Start-18 425.md",
     "cp1 - Start/Start Rooms/Start-17 400.md",
     "cp1 - Start/Start Overview.md",
-    "cp1 - Start/Start Rooms/Start-20 475.md",
-    "cp1 - Start/Start Rooms/Start-19 450.md",
-    "cp1 - Start/Start Rooms/Start-21 500.md",
-    "cp1 - Start/Start Image Storage/400/400 hitbox.jpg",
+    "Home.md",
+    "cp1 - Start/Start Image Storage/425",
     "cp1 - Start/Start Image Storage/400",
-    "cp1 - Start/Start Image Storage/400/400 no hitbox.jpg",
-    "cp1 - Start/Start Image Storage/400/400 spinner gap 6.png",
     "cp1 - Start/Start Rooms/Start-16 375.md",
     "cp1 - Start/Start Image Storage/375",
     "cp1 - Start/Start Rooms/Start-15 350.md",
@@ -217,8 +231,6 @@
     "cp1 - Start/Start Image Storage/300",
     "cp1 - Start/Start Image Storage/275",
     "cp1 - Start/Start Image Storage/250",
-    "cp1 - Start/Start Image Storage/225",
-    "cp1 - Start/Start Image Storage/200",
     "cp1 - Start/Start Rooms/Start-8 175.md",
     "cp1 - Start/Start Rooms/Start-7 150.md",
     "cp1 - Start/Start Rooms/Start-6 125.md",
