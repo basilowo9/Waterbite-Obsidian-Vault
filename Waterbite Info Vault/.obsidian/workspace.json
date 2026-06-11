@@ -1,34 +1,40 @@
 {
   "main": {
-    "id": "5275828e6d7712ba",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "9b3d1a45f3213307",
+        "id": "24680df911b0ee6e",
         "type": "tabs",
         "children": [
           {
-            "id": "9ae79d6ef37b16c6",
+            "id": "a784eac5237bd312",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "cp1 - Start/Start Image Storage/500/500 pufferfish gap.png"
+                "file": "system/Theme Controller.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "500 pufferfish gap"
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Theme Controller"
             }
           },
           {
-            "id": "e1ba994e98ecdc7e",
+            "id": "80842beff1b0b274",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "cp1 - Start/Start Image Storage/500/500 hitbox.jpg"
+                "file": "cp2 - Feeling Purple/Feeling Purple Rooms/Feeling Purple-1 525.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "500 hitbox"
+              "icon": "lucide-file",
+              "title": "Feeling Purple-1 525"
             }
           }
         ],
@@ -89,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 295.5
   },
   "right": {
     "id": "9220943285249030",
@@ -105,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Image Storage/75 hitbox.jpg",
+                "file": "cp2 - Feeling Purple/Feeling Purple Rooms/Feeling Purple-1 525.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 75 hitbox"
+              "title": "Backlinks for Feeling Purple-1 525"
             }
           },
           {
@@ -191,56 +197,56 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "9d4e22bd1f6333a3",
+  "active": "80842beff1b0b274",
   "lastOpenFiles": [
+    "cp1 - Start/Start Rooms/Start-1 Start.md",
+    "cp2 - Feeling Purple/Feeling Purple Rooms/Feeling Purple-1 525.md",
+    "cp3 - Scared of Red/Scared of Red Overview.md",
+    "cp2 - Feeling Purple/Feeling Purple Rooms",
+    "cp4 - Crimson Nightmares/Crimson Nightmares Overview.md",
+    "cp5 - Too Deep to Think/Too Deep to Think Overview.md",
+    "cp1 - Start/Start Overview.md",
+    "system/Theme Controller.md",
+    "Home.md",
+    "cp5 - Too Deep to Think",
+    "cp1 - Start/Start Rooms/Start-21 500.md",
+    "cp4 - Crimson Nightmares",
+    "cp2 - Feeling Purple/Feeling Purple Overview.md",
+    "cp1 - Start/Start Rooms/Start-20 475.md",
+    "cp1 - Start/Start Image Storage/475/475 spinner gap 1.png",
+    "cp1 - Start/Start Image Storage/475/475 no hitbox.jpg",
+    "cp1 - Start/Start Image Storage/475/475 hitbox.jpg",
+    "system",
+    "Theme Controller.txt",
+    "cp1 - Start/Start Rooms/Start-2 25.md",
+    "cp3 - Scared of Red",
+    "cp1 - Start/Start Rooms/Start-4 75.md",
+    "cp1 - Start/Start Image Storage/500/500 pufferfish gap.png",
+    "cp1 - Start/Start Image Storage/500/500 hitbox.jpg",
     "cp1 - Start/Start Image Storage/500",
     "cp1 - Start/Start Image Storage/500/500 no hitbox.jpg",
-    "cp1 - Start/Start Rooms/Start-21 500.md",
-    "cp1 - Start/Start Image Storage/500/500 hitbox.jpg",
-    "cp1 - Start/Start Rooms/Start-20 475.md",
-    "cp1 - Start/Start Image Storage/500/500 pufferfish gap.png",
     "cp1 - Start/Start Image Storage/500/500 spinner gap 1.png",
     "cp1 - Start/Start Image Storage/500/500 spinner gap 2.png",
-    "cp1 - Start/Start Image Storage/475/475 hitbox.jpg",
     "cp1 - Start/Start Image Storage/475",
-    "cp1 - Start/Start Image Storage/475/475 no hitbox.jpg",
     "cp1 - Start/Start Image Storage/475/475 spinner gap 2.png",
     "cp1 - Start/Start Image Storage/475/475 spinner gap 3.png",
-    "cp1 - Start/Start Image Storage/475/475 spinner gap 4.png",
     "cp1 - Start/Start Rooms/Start-19 450.md",
     "cp1 - Start/Start Image Storage/450",
     "cp1 - Start/Start Rooms/Start-18 425.md",
     "cp1 - Start/Start Rooms/Start-17 400.md",
-    "cp1 - Start/Start Overview.md",
-    "Home.md",
     "cp1 - Start/Start Image Storage/425",
-    "cp1 - Start/Start Image Storage/400",
     "cp1 - Start/Start Rooms/Start-16 375.md",
-    "cp1 - Start/Start Image Storage/375",
     "cp1 - Start/Start Rooms/Start-15 350.md",
     "cp1 - Start/Start Rooms/Start-14 325.md",
     "cp1 - Start/Start Rooms/Start-3 50.md",
-    "cp1 - Start/Start Rooms/Start-2 25.md",
-    "cp1 - Start/Start Rooms/Start-1 Start.md",
-    "cp1 - Start/Start Image Storage/350",
     "cp1 - Start/Start Rooms/Start-13 300.md",
-    "cp1 - Start/Start Image Storage/325",
-    "cp1 - Start/Start Image Storage/300",
-    "cp1 - Start/Start Image Storage/275",
-    "cp1 - Start/Start Image Storage/250",
     "cp1 - Start/Start Rooms/Start-8 175.md",
     "cp1 - Start/Start Rooms/Start-7 150.md",
     "cp1 - Start/Start Rooms/Start-6 125.md",
-    "cp1 - Start/Start Rooms/Start-4 75.md",
-    "cp1 - Start/Start Rooms/Start-12 275.md",
-    "cp1 - Start/Start Rooms/Start-11 250.md",
-    "cp1 - Start/Start Rooms/Start-10 225.md",
-    "cp1 - Start/Start Rooms/Start-9 200.md",
-    "cp1 - Start/Start Rooms/Start-5 100.md",
-    "cp2 - Feeling Purple/Feeling Purple Overview.md",
-    "cp2 - Feeling Purple/Feeling Purple-1 525.md"
+    "cp1 - Start/Start Rooms/Start-12 275.md"
   ]
 }

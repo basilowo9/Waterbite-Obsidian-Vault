@@ -1,3 +1,5 @@
+[[Home|Back to Home]]
+
 ## Berries
 
 Chapter - 1x platinum berry, 1x silver berry, 13x water berry
@@ -69,3 +71,7 @@ Chapter - #berry #bumper #checkpoint #deathless-berry #deathless-berry-collect #
 ![[350 no hitbox.jpg|250]] 350m
 ![[375 no hitbox.jpg|250]] 375m
 ![[400 no hitbox.jpg|250]] 400m
+![[425 no hitbox.jpg|250]] 425m
+![[450 no hitbox.jpg|250]] 450m
+![[475 no hitbox.jpg|250]] 475m
+![[500 no hitbox.jpg|250]] 500m
