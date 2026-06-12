@@ -4,6 +4,7 @@
 #berry 
 
 ## Lineups
+#### Berry
 ![[75 berry entrance.png|Lineup for berry entrance|600]]
 ![[75 berry exit.png|Lineup for berry exit|600]]
 

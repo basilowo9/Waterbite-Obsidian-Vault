@@ -5,6 +5,7 @@
 #wind
 
 ## Lineups
+#### Berry
 ![[125 berry entrance.png|Lineup for berry entrance|600]]
 ![[125 berry exit (REMAKE).png|Lineup for berry exit (sorry about hitboxes)|600]]
 

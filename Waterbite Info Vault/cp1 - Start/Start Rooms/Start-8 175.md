@@ -6,7 +6,10 @@
 #wind 
 
 ## Lineups
+#### Room
 ![[175 spinner gap.png|Lineup for bottom spinner gap|600]]
+
+#### Berry
 ![[175 berry entrance.png|Lineup for berry entrance pt1|600]]
 ![[175 berry exit.png|Lineup for berry entrance p2/exit|600]]
 ![[175 berry mid.png|Lineup for berry mid-section|600]]

@@ -4,6 +4,7 @@
 #berry 
 
 ## Lineups
+#### Berry
 ![[100 berry entrance 1.png|Lineup for berry entrance pt1|600]]![[100 berry entrance 2.png|Lineup for berry entrance pt2|600]]
 ![[100 berry mid 1.png|Lineup for berry mid-section pt1|600]]
 ![[100 berry mid 2.png|Lineup for berry mid-section pt2|600]]

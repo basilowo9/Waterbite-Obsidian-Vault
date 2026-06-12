@@ -5,6 +5,7 @@
 #deathless-berry
 
 ## Lineups
+#### Berry
 ![[25 silver entrance.png|Lineup for silver entrance|600]]
 ![[25 silver exit.png|Lineup for silver exit|600]]
 
